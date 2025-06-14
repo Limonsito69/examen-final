@@ -1,5 +1,11 @@
-const Titulo = ({ text }: { text: string }) => (
-  <h2 style={{ fontWeight: 600, fontSize: "16px", margin: 0 }}>{text}</h2>
-);
+import React from 'react'
 
-export default Titulo;
+function Titulo() {
+  return (
+    <div>
+      
+    </div>
+  )
+}
+
+export default Titulo
